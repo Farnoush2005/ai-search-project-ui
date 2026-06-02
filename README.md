@@ -1,4 +1,4 @@
-# UI AI Pathfinding & Search Algorithms
+# AI Pathfinding & Search Algorithms
 
 This repository contains a Python implementation of various search algorithms designed for an AI pathfinding agent navigating a grid environment. This project has been developed as a **B.Sc. Course Assignment for Artificial Intelligence** at the **University of Isfahan (UI)**.
 
@@ -55,6 +55,7 @@ No external heavy dependencies are required, making the scripts incredibly light
 * **Institution:** University of Isfahan (دانشگاه اصفهان)
 * **Degree:** Bachelor of Science (B.Sc.) in Computer Science
 * **Course:** Artificial Intelligence (درس هوش مصنوعی)
+* **Professor:** Dr. Faria Nasiri Mofakham
 
 ### Group Members
 * **Member 1:** [Farnoush Pourshaban / Student ID: 4024023007]
