@@ -22,7 +22,7 @@ The project features four distinct search strategies, each sharing a unified sta
    * **Type:** Uninformed Search (Cost-Optimized)
    * **Behavior:** Expands nodes based on the lowest cumulative step cost $g(n)$ using a priority queue, guaranteeing an optimal cost path.
 
-4. **A* (A-Star Search)**
+4. **A*** **(A-Star Search)**
    * **Type:** Informed Search
    * **Behavior:** Combines the actual path cost $g(n)$ with a powerful heuristic function $h(n)$. 
    * **Heuristic Design:** Utilizes **Manhattan Distance** to the closest target combined with a **Minimum Spanning Tree (MST)** (implemented via Kruskal's algorithm) to estimate the distance between multiple targets. It also dynamically factors in weapon positions and ownership states to calculate the most cost-effective route.
@@ -53,7 +53,7 @@ No external heavy dependencies are required, making the scripts incredibly light
 
 ## Academic Context
 * **Institution:** University of Isfahan (دانشگاه اصفهان)
-* **Degree:** Bachelor of Science (B.Sc.) in Computer Engineering / Computer Science
+* **Degree:** Bachelor of Science (B.Sc.) in Computer Science
 * **Course:** Artificial Intelligence (درس هوش مصنوعی)
 
 ### Group Members
